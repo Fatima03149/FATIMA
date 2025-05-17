@@ -1,3 +1,3 @@
-from FATIMA import menu
-menu()
+from FATIMA import key
+key()
 
